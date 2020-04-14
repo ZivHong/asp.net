@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "pk gridview", ".", "{A763C833-96EA-4BD2-B292-D57D6D12833D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49977"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\asp\pk gridview\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49977\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49977"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\asp\pk gridview\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49977\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49977"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A763C833-96EA-4BD2-B292-D57D6D12833D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A763C833-96EA-4BD2-B292-D57D6D12833D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C697FEA5-F10C-45A4-9DEE-5887E43F55A9}
+	EndGlobalSection
+EndGlobal
